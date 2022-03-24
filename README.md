@@ -1,7 +1,7 @@
 # Maze-Game
 
 
-Console game created as a University Project for Object Oriented Programming Course. 
+Console/Text mode game created on C++ resembling pac-man. 
 
 
 
